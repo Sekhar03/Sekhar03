@@ -46,13 +46,13 @@
 ### 🌐 Direct Connection Protocol
 
 <p align="center">
-  <a href="https://linkedin.com/in/sekhar03">
+  <a href="https://linkedin.com/in/sekhar-parida-07b994220">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sekharparida2003@gmail.com">
     <img src="https://img.shields.io/badge/-Direct%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Sekhar03/personal-portfolio">
+  <a href="https://sekharparida.vercel.app">
     <img src="https://img.shields.io/badge/-Modern%20Portfolio-38bdf8?style=for-the-badge&logo=starship&logoColor=white" alt="Portfolio" />
   </a>
 </p>
