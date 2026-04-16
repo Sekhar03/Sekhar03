@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://viewcount.io/badge.svg?id=Sekhar03" alt="View Count" />
+  <img src="https://komarev.com/ghpvc/?username=Sekhar03&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sekhar Parida</h1>
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <strong>Crafting resilient, high-performance digital infrastructures with a "Nerdy Engineer" obsession for detail.</strong>
+  <strong>Focusing on full-stack excellence and high-performance engineering. I build resilient digital infrastructures and autonomous hardware systems with a "Nerdy Engineer" obsession for detail.</strong>
 </p>
 
 ---
@@ -43,6 +43,29 @@
 
 ---
 
+### 🌟 Project Spotlights
+
+<div align="center">
+
+| Project | Description | Tech Highlight |
+| :--- | :--- | :--- |
+| **[OpenSpeedy](https://github.com/Sekhar03/OpenSpeedy)** | Advanced Game Speed Controller with focus-based auto-transitions and profile management. | C++, Windows API, Tray Integration |
+| **[I-CARD-SYSTEM](https://github.com/Sekhar03/I-CARD-SYSTEM)** | Institutional automated identity and gate management system for IGIT Sarang. | Java, MySQL, Embedded Systems |
+| **[ThunderBird](https://github.com/Sekhar03?tab=repositories&q=ThunderBird)** | Real-time Aerospace Communication Dashboard for space monitoring. | Next.js, Framer Motion, Socket.io |
+| **[Railway I-Card](https://github.com/Sekhar03/railway_icard)** | Digital identification platform optimized for rail personnel workflow. | React, Node.js, Vercel Serverless |
+
+</div>
+
+---
+
+### 🏆 Key Achievements
+
+- 🥇 **1st Rank Winner** - Hardware Hackathon (Startup Odisha & IED Odisha).
+- 🎓 **Engineering Graduate** - IGIT Sarang (B.Tech in Electronics & Telecommunications).
+- 🚀 **Lead Engineer** - Oasis Infobyte (Full-Stack Development Cycle).
+
+---
+
 ### 🌐 Direct Connection Protocol
 
 <p align="center">
@@ -58,5 +81,5 @@
 </p>
 
 <p align="center">
-  <sub>Last Sync: 2026-04-16 | Precision-engineered with ✨</sub>
+  <sub>Precision-engineered by ✨ | Latency-optimized</sub>
 </p>
