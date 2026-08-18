@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sekhar03/Sekhar03/main/header.svg" width="100%" alt="Sekhar Parida Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&amp;weight=800&amp;size=34&amp;duration=3500&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=100&amp;lines=SEKHAR+PARIDA;PRODUCT+ENGINEER+%26+HARDWARE+ARCHITECT;FULL-STACK+%26+HIGH-PERFORMANCE+ENGINEER" alt="Sekhar Parida" />
 </p>
 
 <p align="center">
