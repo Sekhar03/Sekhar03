@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Sekhar Parida Banner" />
+  <img src="https://raw.githubusercontent.com/Sekhar03/Sekhar03/main/header.svg" width="100%" alt="Sekhar Parida Banner" />
 </p>
 
 <p align="center">
@@ -24,8 +24,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" />
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Sekhar03/Sekhar03/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" />
+  <img src="https://raw.githubusercontent.com/Sekhar03/Sekhar03/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
 </p>
 
 ---
