@@ -68,8 +68,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sekhar03&theme=tokyonight" alt="Sekhar's GitHub Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sekhar03&theme=tokyonight" alt="Sekhar's GitHub Stats" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
 </p>
 
 ---

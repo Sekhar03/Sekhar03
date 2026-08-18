@@ -12,14 +12,23 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-node: '18'
+          node-version: '18'
 
       - name: Run Update Script
         run: node .github/scripts/update-readme.js
@@ -28,9 +37,9 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md profile-summary-card-output/
           if ! git diff-index --quiet HEAD; then
-            git commit -m "chore: auto-update featured projects [skip ci]"
+            git commit -m "chore: auto-update profile readme and summary cards [skip ci]"
             git push
           else
             echo "No changes to commit"
