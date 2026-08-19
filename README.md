@@ -53,11 +53,11 @@
 
 | Project | Description | Primary Stack |
 | :--- | :--- | :--- |
-| **[odia-transcriber](https://github.com/Sekhar03/odia-transcriber)** | No description provided. | JavaScript |
-| **[gherkin-checker](https://github.com/Sekhar03/gherkin-checker)** | No description provided. | JavaScript |
-| **[recon](https://github.com/Sekhar03/recon)** | Recon Dashboard | TypeScript |
-| **[Lokaal](https://github.com/Sekhar03/Lokaal)** | No description provided. | TypeScript |
-| **[local-frontend-mobile](https://github.com/Sekhar03/local-frontend-mobile)** | No description provided. | TypeScript |
+| **[odia-transcriber](https://github.com/Sekhar03/odia-transcriber)** | An automated speech-to-text transcribing tool for the Odia language. | JavaScript |
+| **[gherkin-checker](https://github.com/Sekhar03/gherkin-checker)** | A syntax checker and validator for Gherkin feature files. | JavaScript |
+| **[recon](https://github.com/Sekhar03/recon)** | Recon Dashboard for system monitoring. | TypeScript |
+| **[Lokaal](https://github.com/Sekhar03/Lokaal)** | A localization or local community management platform. | TypeScript |
+| **[I-Card](https://github.com/Sekhar03/I-CARD-SYSTEM)** | Institutional automated identity and gate management system for IGIT Sarang. | Java |
 
 </div>
 
