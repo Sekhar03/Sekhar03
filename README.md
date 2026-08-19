@@ -55,9 +55,9 @@
 | :--- | :--- | :--- |
 | **[odia-transcriber](https://github.com/Sekhar03/odia-transcriber)** | No description provided. | JavaScript |
 | **[gherkin-checker](https://github.com/Sekhar03/gherkin-checker)** | No description provided. | JavaScript |
-| **[recon](https://github.com/Sekhar03/recon)** | No description provided. | TypeScript |
-| **[rrrreeeecccoooonnn](https://github.com/Sekhar03/rrrreeeecccoooonnn)** | recon dash | TypeScript |
+| **[recon](https://github.com/Sekhar03/recon)** | Recon Dashboard | TypeScript |
 | **[Lokaal](https://github.com/Sekhar03/Lokaal)** | No description provided. | TypeScript |
+| **[local-frontend-mobile](https://github.com/Sekhar03/local-frontend-mobile)** | No description provided. | TypeScript |
 
 </div>
 

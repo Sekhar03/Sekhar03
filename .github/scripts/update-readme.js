@@ -10,9 +10,9 @@ async function updateReadme() {
     }
     const repos = await response.json();
 
-    // Filter: Exclude forks and config files repos
+    // Filter: Exclude forks, config files repos, and the duplicate rrrreeeecccoooonnn repo
     const activeProjects = repos
-      .filter(repo => !repo.fork && repo.name !== 'Sekhar03' && repo.name !== '.github')
+      .filter(repo => !repo.fork && repo.name !== 'Sekhar03' && repo.name !== '.github' && repo.name !== 'rrrreeeecccoooonnn')
       // Sort by last pushed date (most recent first)
       .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at))
       // Take the top 5 most recently active projects
@@ -28,7 +28,10 @@ async function updateReadme() {
     activeProjects.forEach(repo => {
       const name = repo.name;
       const url = repo.html_url;
-      const description = repo.description || 'No description provided.';
+      let description = repo.description || 'No description provided.';
+      if (name === 'recon') {
+        description = 'Recon Dashboard';
+      }
       const language = repo.language || 'HTML/CSS';
 
       tableMarkdown += `| **[${name}](${url})** | ${description} | ${language} |\n`;
