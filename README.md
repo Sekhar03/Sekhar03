@@ -53,10 +53,10 @@
 
 | Project | Description | Primary Stack |
 | :--- | :--- | :--- |
+| **[iserveu](https://github.com/Sekhar03/iserveu)** | No description provided. | TypeScript |
 | **[linkedin-easy-apply-bot](https://github.com/Sekhar03/linkedin-easy-apply-bot)** | No description provided. | JavaScript |
 | **[odia-transcriber](https://github.com/Sekhar03/odia-transcriber)** | An automated speech-to-text transcribing tool for the Odia language. | JavaScript |
 | **[gherkin-checker](https://github.com/Sekhar03/gherkin-checker)** | A syntax checker and validator for Gherkin feature files. | JavaScript |
-| **[recon](https://github.com/Sekhar03/recon)** | Recon Dashboard for system monitoring. | TypeScript |
 | **[I-Card](https://github.com/Sekhar03/I-CARD-SYSTEM)** | Institutional automated identity and gate management system for IGIT Sarang. | Java |
 
 </div>
