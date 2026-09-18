@@ -53,10 +53,10 @@
 
 | Project | Description | Primary Stack |
 | :--- | :--- | :--- |
+| **[Job-Application-Agent](https://github.com/Sekhar03/Job-Application-Agent)** | No description provided. | JavaScript |
 | **[chargeback-isu](https://github.com/Sekhar03/chargeback-isu)** | No description provided. | HTML |
 | **[iserveu](https://github.com/Sekhar03/iserveu)** | No description provided. | TypeScript |
 | **[linkedin-easy-apply-bot](https://github.com/Sekhar03/linkedin-easy-apply-bot)** | No description provided. | JavaScript |
-| **[odia-transcriber](https://github.com/Sekhar03/odia-transcriber)** | An automated speech-to-text transcribing tool for the Odia language. | JavaScript |
 | **[I-Card](https://github.com/Sekhar03/I-CARD-SYSTEM)** | Institutional automated identity and gate management system for IGIT Sarang. | Java |
 
 </div>
