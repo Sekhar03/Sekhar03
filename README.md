@@ -53,10 +53,10 @@
 
 | Project | Description | Primary Stack |
 | :--- | :--- | :--- |
+| **[Stay-Sphere](https://github.com/Sekhar03/Stay-Sphere)** | No description provided. | HTML/CSS |
 | **[mailflare](https://github.com/Sekhar03/mailflare)** | No description provided. | TypeScript |
 | **[iserveu](https://github.com/Sekhar03/iserveu)** | No description provided. | TypeScript |
 | **[chargeback-iserveu](https://github.com/Sekhar03/chargeback-iserveu)** | No description provided. | TypeScript |
-| **[Job-Application-Agent](https://github.com/Sekhar03/Job-Application-Agent)** | No description provided. | JavaScript |
 | **[I-Card](https://github.com/Sekhar03/I-CARD-SYSTEM)** | Institutional automated identity and gate management system for IGIT Sarang. | Java |
 
 </div>
